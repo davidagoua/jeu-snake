@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+highscore.json
+captures/*-b.png
+.DS_Store
+.venv/
+venv/
