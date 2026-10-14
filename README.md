@@ -8,17 +8,14 @@ Un jeu de serpent complet en Python avec **pygame**.
 ## Lancer le jeu
 
 ```bash
+git clone https://github.com/davidagoua/jeu-snake.git
+cd jeu-snake
 pip install pygame
 python3 snake.py
 ```
 
-`pygame` est déjà installé sur cette machine (version 2.6.1) — vous pouvez donc
-lancer directement :
-
-```bash
-cd snake
-python3 snake.py
-```
+Testé avec Python 3.13 et pygame 2.6.1, sur macOS. Le jeu n'utilise que pygame :
+aucune autre dépendance, aucun fichier de ressources externe.
 
 ## Contrôles
 
